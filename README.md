@@ -1,20 +1,4 @@
-<div align="center">
 
-  <h1>Merlindo Materiano Jr</h1>
-  <p><b>Software Engineer | Angular | Asp.Net</b></p>
-
-  <p align="center">
-    <a href="mailto:mhermateriano@gmail.com">
-      <img src="https://img.shields.io/badge/Email-mhermateriano%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-    <a href="https://www.linkedin.com/in/merlindo-materianojr/">
-      <img src="https://img.shields.io/badge/LinkedIn-Merlindo%20Materiano%20Jr-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-  </p>
-
-</div>
-
----
 
 ### 👨‍💻 Who Am I?
 
@@ -78,9 +62,3 @@
 
 ---
 
-
-<div align="center">
-
-  <p><b>Let's connect and build something useful.</b></p>
-
-</div>
