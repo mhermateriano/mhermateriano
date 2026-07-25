@@ -1,6 +1,6 @@
 # Hi there, I'm Merlindo Materiano Jr 👋
 
-**Full Stack Web Developer / Software Engineer**  
+**Full Stack Web Developer**  
 *Full-stack dev by day, microcontroller builder by night, and total aviation geek 24/7.*
 
 ---
