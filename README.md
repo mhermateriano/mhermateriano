@@ -1,26 +1,31 @@
-# Hi there, I'm Merlindo Materiano Jr 👋
+<div align="center">
 
-**Full Stack Web Developer**  
-*Full-stack dev by day, microcontroller builder by night, and total aviation geek 24/7.*
+  <h1>Merlindo Materiano Jr</h1>
+  <p><b>Software Engineer | Angular | Asp.Net</b></p>
 
----
+  <p align="center">
+    <a href="mailto:mhermateriano@gmail.com">
+      <img src="https://img.shields.io/badge/Email-mhermateriano%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://www.linkedin.com/in/merlindo-materianojr/">
+      <img src="https://img.shields.io/badge/LinkedIn-Merlindo%20Materiano%20Jr-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+  </p>
 
-## 👨‍💻 Who Am I?
-* 🎓 Hold a double degree in **Computer Engineering** and **Aircraft Maintenance Engineering**.
-* ✈️ Passionate about full-stack software development, hardware/microcontrollers, and aviation.
-* 🏢 Currently engineering web systems at a Japanese corporate firm.
-
----
-
-## 🔭 What I'm Currently Working On
-* 🦷 Building a **Dental System Web App** (Side Project).
-* 📊 Developing web applications for **IoT Data Visualization** in my main role.
-* 🐧 Customizing and exploring **Arch Linux** running the **end4 dots** theme.
-* 💼 Open for **part-time work** or **side hustles**!
+</div>
 
 ---
 
-## 🛠️ Tools & Tech Stack
+### 👨‍💻 Who Am I?
+
+```sys
+> Double Degree : Computer Engineering & Aircraft Maintenance Engineering ✈️
+> Current Role  : Full Stack Developer @ Japanese Corporate Firm 🏢
+> OS & Setup    : Arch Linux running end4 dots 🐧 | AMD Ryzen 5700X and 9060XT 
+> Status        : Open for part-time work & side hustles 💼
+```
+
+### 🛠️ Tools & Tech Stack
 
 **Frontend & Languages:**  
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -47,8 +52,3 @@
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 
 ---
-
-## 📬 Where to Reach Me
-
-* 📧 **Email:** [mhermateriano@gmail.com](mailto:mhermateriano@gmail.com)
-* 💼 **LinkedIn:** [Merlindo Materiano Jr](https://www.linkedin.com/in/merlindo-materianojr/)
